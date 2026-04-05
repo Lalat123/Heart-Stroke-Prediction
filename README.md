@@ -5,7 +5,7 @@ A heart disease risk prediction web application built with Streamlit and a K-Nea
 This repository contains a complete end-to-end Machine Learning project that predicts the risk of heart disease based on clinical health metrics. The project includes a trained K-Nearest Neighbors (KNN) model and an interactive web interface built with Streamlit.
 
 🚀 Live Demo
-Note: If you deploy your app using Streamlit Cloud, paste the link here!
+http://localhost:8502/#heart-stroke-prediction-by-lalat
 View the Live App
 
 🛠️ Tech Stack
